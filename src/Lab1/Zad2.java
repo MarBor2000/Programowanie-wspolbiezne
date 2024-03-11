@@ -21,8 +21,18 @@ public class Zad2 {
             this.threadNumber = threadNumber;
         }
 
+        @Override
         public void run() {
             System.out.println("Hello world from Runnable " + threadNumber + "!");
+        }
+    }
+
+
+    public static void main(String[] args){
+        for (int i = 1; i <= 3; i++) {
+            Zad2.MyRunnable myRunnable = new Zad2.MyRunnable(i);
+            Thread thread = new Thread(myRunnable);
+            thread.start();
         }
     }
 

@@ -10,11 +10,18 @@ public class Zad1 {
         try {
             ProcessBuilder processBuilder = new ProcessBuilder(operaPath, pdfFilePath);
 
-            Process process = processBuilder.start();
+            Process process= processBuilder.start();
 
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    public static void main(String[] args){
+
+        Zad1 zad1 = new Zad1();
+        zad1.opener("C:/Users/marbo/AppData/Local/Programs/Opera GX/launcher.exe");
+
     }
 
 }
