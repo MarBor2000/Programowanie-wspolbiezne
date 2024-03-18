@@ -4,25 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0027168d-4cc2-47e5-953e-9442a1406aa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Zad10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Zad11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Zad12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Zad13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Zad3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Zad4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Zad5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Zad6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Zad7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Zad8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Zad9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Zad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Zad1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Zad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Zad2.java" afterDir="false" />
+    <list default="true" id="0027168d-4cc2-47e5-953e-9442a1406aa0" name="Changes" comment="Change 1-2Zad. Make 3-9Zad">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Zad10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Zad10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Zad11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Zad11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Zad12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Zad12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Zad13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Zad13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +38,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Zad1.executor": "Run",
+    "Application.Zad10.executor": "Run",
+    "Application.Zad11.executor": "Run",
+    "Application.Zad12.executor": "Run",
+    "Application.Zad13.executor": "Run",
     "Application.Zad2.executor": "Run",
     "Application.Zad3.executor": "Run",
     "Application.Zad4.executor": "Run",
@@ -65,9 +56,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zad9">
-    <configuration name="Zad5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Zad5" />
+  <component name="RunManager" selected="Application.Zad10">
+    <configuration name="Zad10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1.Zad10" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Zad6" />
+    <configuration name="Zad11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1.Zad11" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Zad7" />
+    <configuration name="Zad12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1.Zad12" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Zad8" />
+    <configuration name="Zad13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1.Zad13" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zad10" />
+        <item itemvalue="Application.Zad13" />
+        <item itemvalue="Application.Zad12" />
+        <item itemvalue="Application.Zad11" />
         <item itemvalue="Application.Zad9" />
-        <item itemvalue="Application.Zad8" />
-        <item itemvalue="Application.Zad7" />
-        <item itemvalue="Application.Zad6" />
-        <item itemvalue="Application.Zad5" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +148,28 @@
       <option name="presentableId" value="Default" />
       <updated>1710174562659</updated>
     </task>
+    <task id="LOCAL-00001" summary="Change 1-2Zad. Make 3-9Zad">
+      <option name="closed" value="true" />
+      <created>1710189180792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710189180792</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change 1-2Zad. Make 3-9Zad">
+      <option name="closed" value="true" />
+      <created>1710189213743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710189213743</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change 1-2Zad. Make 3-9Zad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change 1-2Zad. Make 3-9Zad" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
