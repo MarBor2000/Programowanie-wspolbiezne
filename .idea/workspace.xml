@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0027168d-4cc2-47e5-953e-9442a1406aa0" name="Changes" comment="Change 1-2Zad. Make 3-9Zad">
+    <list default="true" id="0027168d-4cc2-47e5-953e-9442a1406aa0" name="Changes" comment="Add 10-13Zad">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Zad1CzwartaProba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Zad1DrugaProba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Zad1PierwszaProba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Zad1TrzeciaProba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Zad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Zad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Zad4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Zad5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Zad10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Zad10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Zad11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Zad11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Zad12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Zad12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Zad13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Zad13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,10 @@
     "Application.Zad11.executor": "Run",
     "Application.Zad12.executor": "Run",
     "Application.Zad13.executor": "Run",
+    "Application.Zad1CzwartaProba.executor": "Run",
+    "Application.Zad1DrugaProba.executor": "Run",
+    "Application.Zad1PierwszaProba.executor": "Run",
+    "Application.Zad1TrzeciaProba.executor": "Run",
     "Application.Zad2.executor": "Run",
     "Application.Zad3.executor": "Run",
     "Application.Zad4.executor": "Run",
@@ -52,17 +61,21 @@
     "Application.Zad9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zad10">
-    <configuration name="Zad10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Zad10" />
+  <component name="RunManager" selected="Application.Zad4">
+    <configuration name="Zad1TrzeciaProba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2.Zad1TrzeciaProba" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab1.*" />
+          <option name="PATTERN" value="Lab2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Zad11" />
+    <configuration name="Zad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2.Zad2" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab1.*" />
+          <option name="PATTERN" value="Lab2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Zad12" />
+    <configuration name="Zad3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2.Zad3" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab1.*" />
+          <option name="PATTERN" value="Lab2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Zad13" />
+    <configuration name="Zad4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2.Zad4" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab1.*" />
+          <option name="PATTERN" value="Lab2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Zad9" />
+    <configuration name="Zad5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2.Zad5" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab1.*" />
+          <option name="PATTERN" value="Lab2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zad10" />
-        <item itemvalue="Application.Zad13" />
-        <item itemvalue="Application.Zad12" />
-        <item itemvalue="Application.Zad11" />
-        <item itemvalue="Application.Zad9" />
+        <item itemvalue="Application.Zad4" />
+        <item itemvalue="Application.Zad5" />
+        <item itemvalue="Application.Zad3" />
+        <item itemvalue="Application.Zad2" />
+        <item itemvalue="Application.Zad1TrzeciaProba" />
       </list>
     </recent_temporary>
   </component>
@@ -164,12 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710189213743</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add 10-13Zad">
+      <option name="closed" value="true" />
+      <created>1710790865048</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710790865048</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change 1-2Zad. Make 3-9Zad" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change 1-2Zad. Make 3-9Zad" />
+    <MESSAGE value="Add 10-13Zad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 10-13Zad" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -182,6 +204,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lab2/Zad4.java</url>
+          <line>5</line>
+          <properties class="Lab2.Zad4" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
