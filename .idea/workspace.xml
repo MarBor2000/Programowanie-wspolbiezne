@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0027168d-4cc2-47e5-953e-9442a1406aa0" name="Changes" comment="Add Lab2">
-      <change afterPath="$PROJECT_DIR$/src/Lab3/Zad1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/Zad2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/Zad3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/Zad4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/Zad5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/Zad6a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/Zad6c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/Zad7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Blokady/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Monitory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Semafory/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MarBor2000"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MarBor2000/Programowanie-wspolbiezne.git",
+    "accountId": "698c8745-e6e7-4015-9b09-869bb861d00d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -44,6 +51,9 @@
     "Application.Lab3.Zad2.executor": "Run",
     "Application.Lab3.Zad3.executor": "Run",
     "Application.Lab3.Zad4.executor": "Run",
+    "Application.Lab5.Blokady.Main.executor": "Run",
+    "Application.Lab5.Monitory.Main.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Zad1.executor": "Run",
     "Application.Zad10.executor": "Run",
     "Application.Zad11.executor": "Run",
@@ -75,13 +85,13 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zad7">
-    <configuration name="Zad5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Zad5" />
+  <component name="RunManager" selected="Application.Lab5.Monitory.Main">
+    <configuration name="Lab5.Blokady.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab5.Blokady.Main" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="Lab5.Blokady.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad6a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Zad6a" />
+    <configuration name="Lab5.Monitory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab5.Monitory.Main" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="Lab5.Monitory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad6b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Zad6b" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab5.Semafory.Main" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="Lab5.Semafory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab5.Monitory.Main" />
+        <item itemvalue="Application.Lab5.Blokady.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Zad7" />
         <item itemvalue="Application.Zad6c" />
-        <item itemvalue="Application.Zad6b" />
-        <item itemvalue="Application.Zad6a" />
-        <item itemvalue="Application.Zad5" />
       </list>
     </recent_temporary>
   </component>
